@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289556574351",
+    "project_id": "mmas-26876",
+    "storage_bucket": "mmas-26876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289556574351:android:9d3a72363f848dfb7540fa",
+        "android_client_info": {
+          "package_name": "com.example.adminmmas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRZEvovvh0GKUlBEb2KqWMtBbyt-0ZpNs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
